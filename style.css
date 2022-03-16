@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contain{
+    width: 800px;
+    height: 500px;
+    border: 3px solid black;
+    box-shadow: black;
+    
+}
+
+
+.utente{
+    width: 50px;
+    height: auto;
+}
+
+
+.contain_comments{
+    height: 75%;
+    overflow: auto;
+    border: 3px solid black;
+    box-shadow: black;
+}
+.contain_text_area{
+    height: 25%;
+    
+}
+.text_area{
+    width: 90%;
+}
